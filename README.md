@@ -8,7 +8,7 @@ A simple and interactive fitness tracker built using React. Add, manage, and com
 
 ## 📸 Screenshot
 
-![Workout Screenshot](https://github.com/MohamedElgazwy/workout/raw/main/screenshot.png)
+![Workout Screenshot](https://github.com/MohamedElgazwy/workout/raw/master/screenshot.png)
 
 ---
 
